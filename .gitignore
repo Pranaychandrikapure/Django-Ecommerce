@@ -1,0 +1,42 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# Django specific
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Misc
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Local Django settings
+local_settings.py
